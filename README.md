@@ -17,6 +17,8 @@ Your task is to:
 - Integrate cryptographic primitives correctly to satisfy the assignment spec.
 - Produce evidence of security properties via Wireshark, replay/tamper tests, and signed session receipts.
 
+
+
 ## 🏗️ Folder Structure
 ```
 securechat-skeleton/
